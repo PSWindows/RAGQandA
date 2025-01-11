@@ -10,3 +10,4 @@ sentence_transformers
 pyyaml==6.0
 streamlit==1.15.0
 torch==2.1.0
+altair
