@@ -10,7 +10,7 @@ pymupdf
 wikipedia
 langchain-text-splitters
 langchain-openai
-chromadb
+chromadb==0.1.0
 sentence_transformers
 langchain_huggingface
 faiss-cpu
