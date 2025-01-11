@@ -5,7 +5,7 @@ langchain_chroma
 langchain-groq
 langchain_huggingface
 langchain-text-splitters
-chromadb==0.1.0
+chromadb
 sentence_transformers
 pyyaml==6.0
 streamlit==1.15.0
